@@ -1,4 +1,5 @@
-#RMI BANK ACCOUNT APPLICATION
+RMI BANK ACCOUNT APPLICATION
+----------------------------------------
 
 Description:
 This application implements a simple bank account system using Java RMI (Remote Method Invocation).
